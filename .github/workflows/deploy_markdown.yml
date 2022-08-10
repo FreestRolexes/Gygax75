@@ -1,0 +1,33 @@
+name: py
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+        with:
+          ref: 'main'
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: convert the links
+        run: |
+          python roamlink_converter.py
+      - name: delete remote branch # if it exists
+        run: |
+          git push origin --delete viewer || echo "`viewer` branch does not exists; skipping..."
+      - name: make branch, add files
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'noreply@github.com'
+          git checkout -b viewer
+          find . -name "*.md" -print0 | xargs -0 git add
+          git commit -m "Notes for viewing (fixed links)"
+          git push origin viewer
