@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "c991b3819bfe3a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6ea95303cd4e96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4add8f1c4dc00e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9531c92eb97b917c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db11d5b370e7c6b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "238cc52d3c21b9ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1096583ae444f67e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "748f26274582e51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d045244bb18874c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f488f06e100dea68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba906524b09a2fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f31e6c39f912bf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56881f22fd66c3aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db11d5b370e7c6b9",
+  "lastOpenFiles": [
+    "01 - Entry Page.md",
+    "Week 2.md",
+    "templates/task_template.md",
+    "Tasks/Campaign Pitch.md",
+    "Tasks/Inspiration.md",
+    "templates/week_template.md",
+    "Week 1.md"
+  ]
+}
