@@ -26,7 +26,7 @@ major town and the dungeon entrance.” – EGG
 
 ## Extra-Credit
 - [ ] Pimp your map
-- [ ] Create [[random encounter table]]
+- [ ] Create **random encounter table**
 
 ## Questions / Notes
 -   JJH: Do we want hexcrawls?  Alternatives:

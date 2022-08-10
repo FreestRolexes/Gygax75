@@ -6,9 +6,9 @@ tags:
 ---
 
 # Pitches
-- 1) There was a revolution against the reclusive, decadent [[ruling class]] that ended N years ago. The revolutionaries won and have up-ended life in this region. 
-- 2) [[Revolutionary Armies]] are quarreling to assume control, classes close to the [[ruling class]] are being persecuted, safety/protection of rural regions has been neglected, and sacred sites are left unguarded.
-	- [[1st adventure]] and [[dungeon]] are one of these sites
+- 1) There was a revolution against the reclusive, decadent **ruling class** that ended N years ago. The revolutionaries won and have up-ended life in this region. 
+- 2) **Revolutionary Armies** are quarreling to assume control, classes close to the **ruling class** are being persecuted, safety/protection of rural regions has been neglected, and sacred sites are left unguarded.
+	- **1st adventure** and **dungeon** are one of these sites
 - 3
 - 4
 - 5

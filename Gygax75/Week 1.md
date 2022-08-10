@@ -18,8 +18,8 @@ the players relative free-reign to their imaginations.” – EGG
 ## Tasks
 - [x] Get a notebook
 	- This github and jamboard page
-- [ ] Develop your [[Campaign Pitch|pitch]]
-- [ ] Gather sources of [[Inspiration]]
+- [ ] Develop your [pitch](../Gygax75/Tasks/Campaign%20Pitch.md)
+- [ ] Gather sources of [Inspiration](../Gygax75/Tasks/Inspiration.md)
 
 ## Extra Credit
 - [ ] Assemble a mood board

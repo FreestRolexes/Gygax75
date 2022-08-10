@@ -23,6 +23,6 @@ tags:
 	- Book/movie/song/picture
 	- Author/director/artist
 	- Few sentence description of what you care about in source
-- Are these sources cited/alluded to in the [[Campaign Pitch|pitch]]
+- Are these sources cited/alluded to in the [pitch](../../Gygax75/Tasks/Campaign%20Pitch.md)
  
 ## Scratchpad
